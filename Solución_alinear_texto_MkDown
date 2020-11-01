@@ -1,8 +1,13 @@
-###Esta es una solución báscia para justificar o alinear texto en editores MarkDown, en la actualidad utilizo Atom y me ha proporcionado la solucion que yo necesitaba
+###Esta es una solución báscia para justificar o alinear texto en editores MarkDown, en la actualidad utilizo Atom
+###y me ha proporcionado la solucion que yo necesitaba
 ###justificar texto para la realización de trabajo academicos para la universidad. 
 ###En la actuliadad hay soluciones mucho mas completas y con mas funciones pero que no acabo de dominar, por lo tanto esta solución es recomendada para quienes 
 ###tengan un conocimineto básico en cualquier ambito de la programación.
+
 La solucion es tan sencilla como aplicar la etiqueta "div" con sus respectivas opciones, el texto puede estar justifiacdo es decir
 "justiy" <div style="text-align:justify"> "texto aquí" </div>
 y tambien se pueden agregar "center" "left" o "right"
-###Inspiracion para la solucion sacada de este enlace: https://forum.squarespace.com/topic/63848-aligning-text-center-in-a-markdown-box/
+
+###Inspiracion para la solucion sacada de este enlace: <a href=”https://forum.squarespace.com/topic/63848-aligning-text-center-in-a-markdown-box/”>Solución</a>
+
+
