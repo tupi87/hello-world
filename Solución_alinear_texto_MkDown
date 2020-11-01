@@ -5,3 +5,4 @@
 La solucion es tan sencilla como aplicar la etiqueta "div" con sus respectivas opciones, el texto puede estar justifiacdo es decir
 "justiy" <div style="text-align:justify"> "texto aquí" </div>
 y tambien se pueden agregar "center" "left" o "right"
+###Inspiracion para la solucion sacada de este enlace: https://forum.squarespace.com/topic/63848-aligning-text-center-in-a-markdown-box/
